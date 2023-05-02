@@ -1,4 +1,4 @@
-# JATE-Challenge
+# Fun-with-Jate
 ## Description
 ### User Story
 

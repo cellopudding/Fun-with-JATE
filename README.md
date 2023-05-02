@@ -1,1 +1,1 @@
-# JATE-Challege
+# JATE-Challenge
